@@ -33,12 +33,13 @@ A custom music player UI built with JavaScript and CSS animations. Features incl
 # Project Name 🎨
 
 ## Description
-Short project description here (what it does, why you built it, tech used).
+A responsive personal portfolio website built with **HTML, CSS, and JavaScript**. It showcases my projects, skills, and contact details with a clean and modern design.
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Responsive design (works on mobile, tablet, desktop)  
+- Smooth scrolling and animations  
+- Sections for About, Skills, Projects, and Contact  
+- Easy-to-update structure for adding new projects
 
 ## Tech Stack
 - HTML, CSS, JavaScript
